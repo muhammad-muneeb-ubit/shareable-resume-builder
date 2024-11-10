@@ -1,0 +1,22 @@
+{
+  "name": "milestone-3",
+  "version": "1.0.0",
+  "description": "dynamic resume builder",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Muneeb",
+  "license": "ISC",
+  "dependencies": {
+    "env": "^0.0.2",
+    "html2pdf.js": "^0.9.3"
+  },
+  "devDependencies": {
+    "dotenv-webpack": "^8.1.0",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  }
+}
